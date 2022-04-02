@@ -1,0 +1,25 @@
+{
+  "name": "hertechtrail",
+  "version": "1.0.0",
+  "description": "tailwind first installation",
+  "main": "index.js",
+  "scripts": {
+    "test": "show"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mildred366/tailwind-assignment.git"
+  },
+  "keywords": [
+    "assignment"
+  ],
+  "author": "Mildred Erubore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mildred366/tailwind-assignment/issues"
+  },
+  "homepage": "https://github.com/mildred366/tailwind-assignment#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
